@@ -1,0 +1,1 @@
+# quarkus-java-11-panache-jacoco
